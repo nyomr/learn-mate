@@ -1,1 +1,1 @@
-# learn-mate
+# LearnMate
